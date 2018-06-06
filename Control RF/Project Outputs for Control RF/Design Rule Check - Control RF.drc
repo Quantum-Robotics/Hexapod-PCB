@@ -1,0 +1,14 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\Quantum Robotics\Control RF\Control RF.PcbDoc
+Date     : 17/05/2018
+Time     : 08:19:36 a. m.
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: NONET_L04_P002 In net GND On Bottom Layer
+   Polygon named: NONET_L04_P004 In net GND On Bottom Layer
+   Polygon named: NONET_L01_P006 In net GND On Top Layer
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01

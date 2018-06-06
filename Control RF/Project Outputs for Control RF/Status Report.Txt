@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Control RF.PrjPcb]
+   Generated File[Control RF.TXT]
+   Generated File[Control RF.LDP]
+   Generated File[Control RF.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 09:25:17 a. m. On 16/05/2018

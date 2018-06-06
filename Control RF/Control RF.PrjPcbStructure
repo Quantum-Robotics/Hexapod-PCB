@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Control RF.SchDoc
+Record=SheetSymbol|SourceDocument=Control RF.SchDoc|Designator=CONTROL|SchDesignator=CONTROL|FileName=Microcontrolador.SchDoc|SymbolType=Normal|RawFileName=Microcontrolador.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Control RF.SchDoc|Designator=LCD|SchDesignator=LCD|FileName=Lcd_Control.SchDoc|SymbolType=Normal|RawFileName=Lcd_Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Control RF.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=Power_Control.SchDoc|SymbolType=Normal|RawFileName=Power_Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

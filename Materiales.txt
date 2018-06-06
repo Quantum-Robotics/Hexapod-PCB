@@ -1,0 +1,61 @@
+Material:
+  Control RF:
+     Cantidad     Componente                  Valor
+      16         Resistencias                 330 Ohms
+      4          Capacitores                  0.1uF
+      2          Oscilador de cristal         16Mhz
+      1          Trimpod                      50k Ohms
+      1          Pantalla LCD 16x2
+      2          Atmega328p
+      2          Bases para atmega328p
+      1          AMS117-5.0
+      1          AMS117-3.3
+      1          Bornero 2-pin
+      8          Push button N/A
+      2          Leds RGB
+      2          Modulos de Joystick
+      1          nRF24l01
+      2          Leds Verdes
+      1          Push con enclavamiento
+
+  Shield Arduino DUE:
+    Cantidad      Componente                  Valor
+      8          Resistencias                 330 Ohms
+      6          Capacitores                  0.1uF
+      1          Oscilador de cristal         16Mhz
+      1          MPU6050
+      1          nRF24l01
+      2          Borneros 2 pin
+      1          AMS117-5.0
+      1          AMS117-3.3
+      1          LM7805
+      1          Atmega328p
+      1          Bases para atmega328p
+      2          Leds RGB
+      1          Push con enclavamiento
+      3          Leds Verdes
+      1          Modulo microSD
+      90         Pines Macho (3 Tiras)
+
+Material TOTAL:
+    Cantidad      Componente                  Valor
+      24         Resistencias                 330 Ohms
+      10         Capacitores                  0.1uF
+      3          Oscilador de cristal         16Mhz
+      1          Trimpod                      50k Ohms
+      1          Pantalla LCD 16x2
+      1          MPU6050
+      3          Atmega328p
+      3          Bases para atmega328p
+      2          AMS117-5.0
+      2          AMS117-3.3
+      1          LM7805
+      3          Bornero 2-pin
+      8          Push button N/A
+      4          Leds RGB
+      2          Modulos de Joystick
+      2          nRF24l01
+      5          Leds Verdes
+      2          Push con enclavamiento
+      1          Modulo microSD
+      90         Pines Macho (3 Tiras)

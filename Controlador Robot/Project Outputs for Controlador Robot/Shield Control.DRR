@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Shield Control.pcbdoc   17/05/2018  10:29:47 p. m.
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Shield Control.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.6mm)                                             Round             8         PTH        0.63inch (15.95mm)
+T2      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      30mil (0.762mm)                                           Round             84        PTH        12.30inch (312.45mm)
+T4      32mil (0.8mm)                                             Round             38        PTH        10.96inch (278.31mm)
+T5      35mil (0.9mm)                                             Round             72        PTH        12.31inch (312.56mm)
+T6      39mil (1mm)                                               Round             3         PTH        0.20inch (5.08mm)
+T7      43mil (1.1mm)                                             Round             4         PTH        0.68inch (17.27mm)
+T8      59mil (1.5mm)                                             Round             4         PTH        3.14inch (79.76mm)
+T9      79mil (2mm)                                               Round             3         PTH        6.67inch (169.46mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              217
+
+Total Processing Time (hh:mm:ss) : 00:00:01

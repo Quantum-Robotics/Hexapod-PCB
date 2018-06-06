@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Control RF.PcbDoc   16/05/2018  09:25:17 a. m.
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Control RF.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.6mm)                                             Round             8         PTH        0.55inch (13.87mm)
+T2      30mil (0.762mm)                                           Round             4         PTH        1.99inch (50.60mm)
+T3      32mil (0.8mm)                                             Round             38        PTH        12.23inch (310.76mm)
+T4      32mil (0.813mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T5      35mil (0.9mm)                                             Round             72        PTH        14.30inch (363.18mm)
+T6      39mil (1mm)                                               Round             16        PTH        1.50inch (38.10mm)
+T7      43mil (1.1mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T8      71mil (1.8mm)                                             Round             4         PTH        7.13inch (181.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              147
+
+Total Processing Time (hh:mm:ss) : 00:00:00

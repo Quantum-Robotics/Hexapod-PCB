@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Controlador Robot.SchDoc
+Record=SheetSymbol|SourceDocument=Controlador Robot.SchDoc|Designator=SD control|SchDesignator=SD control|FileName=Controlador SD.SchDoc|SymbolType=Normal|RawFileName=Controlador SD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Controlador Robot.SchDoc|Designator=ServoMotores.|SchDesignator=ServoMotores.|FileName=Servos bus.SchDoc|SymbolType=Normal|RawFileName=Servos bus.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Controlador Robot.SchDoc|Designator=Voltaje Supply|SchDesignator=Voltaje Supply|FileName=Alimentacion.SchDoc|SymbolType=Normal|RawFileName=Alimentacion.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
